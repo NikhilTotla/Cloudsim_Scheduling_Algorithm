@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Paper_1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>dax/new.xml</name>
+			<type>1</type>
+			<location>C:/Users/Nikhil Totla/Desktop/new.xml</location>
+		</link>
+		<link>
+			<name>dax/new1.xml</name>
+			<type>1</type>
+			<location>C:/Users/Nikhil Totla/Desktop/new1.xml</location>
+		</link>
+	</linkedResources>
+</projectDescription>
